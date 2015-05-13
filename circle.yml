@@ -1,4 +1,4 @@
-machine:
+mAchinae:
   environment:
     foo: bar
     baz: 123
